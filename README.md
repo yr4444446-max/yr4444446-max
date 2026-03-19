@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there%2C+I'm+Yash+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+ideas+into+reality+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Yash+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+%2B+Backend+%3D+Full+Stack+%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,9 +19,11 @@
 ### 🧑‍💻 About Me
 
 - 🌍 Based in **India**, building for the world
-- 🔭 Currently working on **full-stack web projects**
+- 🔭 Currently building **full-stack web apps**
+- 💻 I work on both **frontend & backend** systems
 - 🌱 Always exploring **new tech & frameworks**
-- 💬 Ask me about **React, TypeScript, Python, or .NET**
+- 💬 Ask me about **HTML, CSS, JS, React, Python, or C#**
+- ✈️ Love building **travel-themed UIs**
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it
 
 <br clear="both"/>
@@ -32,14 +34,31 @@
 
 <div align="center">
 
-#### Frontend
+#### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-#### Backend & Languages
-<img src="https://skillicons.dev/icons?i=python,cs,nodejs,dotnet&theme=dark" />
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet,express&theme=dark" />
 
-#### Tools & Platforms
+#### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
+
+#### 🔧 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+[![AKY-TRAVEL](https://github-readme-stats.vercel.app/api/pin/?username=yr4444446-max&repo=AKY-TRAVEL&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yr4444446-max/AKY-TRAVEL)
+[![Travel-to-India](https://github-readme-stats.vercel.app/api/pin/?username=yr4444446-max&repo=Travel-to-India&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yr4444446-max/Travel-to-India)
+
+[![VSF](https://github-readme-stats.vercel.app/api/pin/?username=yr4444446-max&repo=VSF&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yr4444446-max/VSF)
+[![PLC-](https://github-readme-stats.vercel.app/api/pin/?username=yr4444446-max&repo=PLC-&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yr4444446-max/PLC-)
 
 </div>
 
@@ -75,14 +94,6 @@
 
 ---
 
-### 🐍 My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yr4444446-max/yr4444446-max/output/snake.svg"/>
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -96,10 +107,6 @@
   &nbsp;
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-  &nbsp;
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="32"/>
   </a>
 </div>
 
