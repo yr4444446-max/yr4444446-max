@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yr4444446-max&label=Profile%20views&color=0e75b6&style=flat" alt="yr4444446-max" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Yash+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+%2B+Backend+%3D+Full+Stack+%F0%9F%94%A5;Currently+Teaching+%26+Building+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
@@ -73,59 +77,17 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yr4444446-max/yr4444446-max/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
+---
+
 ### 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.instagram.com/rathodyash220"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:yr4444446@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-
-                                         badge&logo=gmail&logoColor=white" /></a>
-
+  <a href="mailto:yr4444446@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-
-
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yr4444446-max&label=Profile%20views&color=0e75b6&style=flat" alt="yr4444446-max" />
-</p>
-
-
-name: generate animation
-
-on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the main branch
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          ### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/yr4444446-max/yr4444446-max/output/github-contribution-grid-snake.svg)
