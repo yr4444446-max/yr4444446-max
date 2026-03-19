@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Rathod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=52&descSize=18" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yash%20Rathod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20🚀&descAlignY=52&descSize=18" width="100%" />
 </div>
 
 <div align="center">
@@ -10,11 +8,11 @@
   </a>
 </div>
 
-<br/>
+<br />
 
 ---
 
-<img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHByZndueHdwZzZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVr9W5RIc/giphy.gif"/>
+<img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHByZndueHdwZzZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVr9W5RIc/giphy.gif" />
 
 ### 🧑‍💻 About Me
 
@@ -26,7 +24,7 @@
 - ✈️ Love building **travel-themed UIs**
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it
 
-<br clear="both"/>
+<br clear="both" />
 
 ---
 
@@ -35,16 +33,13 @@
 <div align="center">
 
 #### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
 
-#### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet&theme=dark" />
-
-#### 🔥 Database
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+#### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,cs,dotnet,firebase&theme=dark" />
 
 #### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,aws&theme=dark" />
 
 </div>
 
@@ -57,39 +52,23 @@
 [![AKY-TRAVEL](https://github-readme-stats.vercel.app/api/pin/?username=yr4444446-max&repo=AKY-TRAVEL&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yr4444446-max/AKY-TRAVEL)
 [![Travel-to-India](https://github-readme-stats.vercel.app/api/pin/?username=yr4444446-max&repo=Travel-to-India&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yr4444446-max/Travel-to-India)
 
-[![VSF](https://github-readme-stats.vercel.app/api/pin/?username=yr4444446-max&repo=VSF&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yr4444446-max/VSF)
-[![PLC-](https://github-readme-stats.vercel.app/api/pin/?username=yr4444446-max&repo=PLC-&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/yr4444446-max/PLC-)
-
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yr4444446-max&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&count_private=true&include_all_commits=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yr4444446-max&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&langs_count=6" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app?username=yr4444446-max&theme=tokyonight&column=7&margin-w=15" alt="trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yr4444446-max&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yr4444446-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yr4444446-max&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="languages graph" />
 </div>
 
----
-
-### 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yr4444446-max&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&radius=12" width="95%"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yr4444446-max&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+  <img src="https://streak-stats.demolab.com?user=yr4444446-max&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 ---
@@ -97,27 +76,6 @@
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.instagram.com/rathodyash220">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yr4444446@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yr4444446-max&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <a href="https://www.instagram.com/rathodyash220"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:yr4444446@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
